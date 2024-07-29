@@ -1,6 +1,6 @@
 // import React from "react"
 import '../src/style.css'
-import linkedinPic from "public/00_linkedinLevi.jpeg"
+import linkedinPic from "./public/00_linkedinLevi.jpeg"
 
 export default function Info() {
     return(
